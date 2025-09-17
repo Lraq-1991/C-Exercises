@@ -28,7 +28,7 @@ int main()
     char row[MAX_CHAR];
     struct Entry precipitations[MAX_RECORDS];
 
-    data = fopen("dataset\\brazil_precipitation.csv", "r");
+    data = fopen(PATH, "r");
 
     if (data == NULL)
     {
