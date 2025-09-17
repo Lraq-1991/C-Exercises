@@ -1,0 +1,183 @@
+week_day,state,precipitation (mm/h)
+Monday,Acre,1.2
+Monday,Alagoas,0.5
+Monday,Amapá,2.1
+Monday,Amazonas,3.4
+Monday,Bahia,0.8
+Monday,Ceará,0.3
+Monday,Espírito Santo,1.1
+Monday,Goiás,1.5
+Monday,Maranhão,2.2
+Monday,Mato Grosso,2.5
+Monday,Mato Grosso do Sul,1.8
+Monday,Minas Gerais,1
+Monday,Pará,3
+Monday,Paraíba,0.6
+Monday,Paraná,1.3
+Monday,Pernambuco,0.4
+Monday,Piauí,0.9
+Monday,Rio de Janeiro,1.4
+Monday,Rio Grande do Norte,0.2
+Monday,Rio Grande do Sul,0.7
+Monday,Rondônia,2.8
+Monday,Roraima,3.5
+Monday,Santa Catarina,1.6
+Monday,São Paulo,1.2
+Monday,Sergipe,0.3
+Monday,Tocantins,2
+Tuesday,Acre,1.5
+Tuesday,Alagoas,0.7
+Tuesday,Amapá,2.5
+Tuesday,Amazonas,3.8
+Tuesday,Bahia,1
+Tuesday,Ceará,0.5
+Tuesday,Espírito Santo,1.3
+Tuesday,Goiás,1.8
+Tuesday,Maranhão,2.5
+Tuesday,Mato Grosso,2.9
+Tuesday,Mato Grosso do Sul,2
+Tuesday,Minas Gerais,1.2
+Tuesday,Pará,3.4
+Tuesday,Paraíba,0.8
+Tuesday,Paraná,1.5
+Tuesday,Pernambuco,0.6
+Tuesday,Piauí,1.1
+Tuesday,Rio de Janeiro,1.6
+Tuesday,Rio Grande do Norte,0.4
+Tuesday,Rio Grande do Sul,0.9
+Tuesday,Rondônia,3.1
+Tuesday,Roraima,3.9
+Tuesday,Santa Catarina,1.8
+Tuesday,São Paulo,1.4
+Tuesday,Sergipe,0.5
+Tuesday,Tocantins,2.3
+Wednesday,Acre,1
+Wednesday,Alagoas,0.3
+Wednesday,Amapá,1.8
+Wednesday,Amazonas,3
+Wednesday,Bahia,0.6
+Wednesday,Ceará,0.2
+Wednesday,Espírito Santo,0.9
+Wednesday,Goiás,1.2
+Wednesday,Maranhão,1.9
+Wednesday,Mato Grosso,2.2
+Wednesday,Mato Grosso do Sul,1.6
+Wednesday,Minas Gerais,0.8
+Wednesday,Pará,2.7
+Wednesday,Paraíba,0.5
+Wednesday,Paraná,1.1
+Wednesday,Pernambuco,0.3
+Wednesday,Piauí,0.7
+Wednesday,Rio de Janeiro,1.2
+Wednesday,Rio Grande do Norte,0.1
+Wednesday,Rio Grande do Sul,0.5
+Wednesday,Rondônia,2.5
+Wednesday,Roraima,3.2
+Wednesday,Santa Catarina,1.4
+Wednesday,São Paulo,1
+Wednesday,Sergipe,0.2
+Wednesday,Tocantins,1.7
+Thursday,Acre,1.3
+Thursday,Alagoas,0.6
+Thursday,Amapá,2
+Thursday,Amazonas,3.2
+Thursday,Bahia,0.9
+Thursday,Ceará,0.4
+Thursday,Espírito Santo,1
+Thursday,Goiás,1.4
+Thursday,Maranhão,2.1
+Thursday,Mato Grosso,2.4
+Thursday,Mato Grosso do Sul,1.7
+Thursday,Minas Gerais,0.9
+Thursday,Pará,2.9
+Thursday,Paraíba,0.7
+Thursday,Paraná,1.2
+Thursday,Pernambuco,0.5
+Thursday,Piauí,0.8
+Thursday,Rio de Janeiro,1.3
+Thursday,Rio Grande do Norte,0.3
+Thursday,Rio Grande do Sul,0.6
+Thursday,Rondônia,2.7
+Thursday,Roraima,3.3
+Thursday,Santa Catarina,1.5
+Thursday,São Paulo,1.1
+Thursday,Sergipe,0.4
+Thursday,Tocantins,1.9
+Friday,Acre,1.6
+Friday,Alagoas,0.8
+Friday,Amapá,2.3
+Friday,Amazonas,3.6
+Friday,Bahia,1.1
+Friday,Ceará,0.6
+Friday,Espírito Santo,1.2
+Friday,Goiás,1.6
+Friday,Maranhão,2.3
+Friday,Mato Grosso,2.7
+Friday,Mato Grosso do Sul,1.9
+Friday,Minas Gerais,1.1
+Friday,Pará,3.2
+Friday,Paraíba,0.9
+Friday,Paraná,1.4
+Friday,Pernambuco,0.7
+Friday,Piauí,1
+Friday,Rio de Janeiro,1.5
+Friday,Rio Grande do Norte,0.5
+Friday,Rio Grande do Sul,0.8
+Friday,Rondônia,2.9
+Friday,Roraima,3.7
+Friday,Santa Catarina,1.7
+Friday,São Paulo,1.3
+Friday,Sergipe,0.6
+Friday,Tocantins,2.1
+Saturday,Acre,1.4
+Saturday,Alagoas,0.7
+Saturday,Amapá,2.2
+Saturday,Amazonas,3.5
+Saturday,Bahia,1
+Saturday,Ceará,0.5
+Saturday,Espírito Santo,1.1
+Saturday,Goiás,1.5
+Saturday,Maranhão,2.4
+Saturday,Mato Grosso,2.6
+Saturday,Mato Grosso do Sul,1.8
+Saturday,Minas Gerais,1
+Saturday,Pará,3.1
+Saturday,Paraíba,0.8
+Saturday,Paraná,1.3
+Saturday,Pernambuco,0.6
+Saturday,Piauí,0.9
+Saturday,Rio de Janeiro,1.4
+Saturday,Rio Grande do Norte,0.4
+Saturday,Rio Grande do Sul,0.7
+Saturday,Rondônia,2.8
+Saturday,Roraima,3.6
+Saturday,Santa Catarina,1.6
+Saturday,São Paulo,1.2
+Saturday,Sergipe,0.5
+Saturday,Tocantins,2
+Sunday,Acre,1.1
+Sunday,Alagoas,0.4
+Sunday,Amapá,1.9
+Sunday,Amazonas,3.1
+Sunday,Bahia,0.7
+Sunday,Ceará,0.3
+Sunday,Espírito Santo,0.8
+Sunday,Goiás,1.3
+Sunday,Maranhão,2
+Sunday,Mato Grosso,2.3
+Sunday,Mato Grosso do Sul,1.7
+Sunday,Minas Gerais,0.9
+Sunday,Pará,2.8
+Sunday,Paraíba,0.6
+Sunday,Paraná,1
+Sunday,Pernambuco,0.4
+Sunday,Piauí,0.8
+Sunday,Rio de Janeiro,1.3
+Sunday,Rio Grande do Norte,0.2
+Sunday,Rio Grande do Sul,0.6
+Sunday,Rondônia,2.6
+Sunday,Roraima,3.2
+Sunday,Santa Catarina,1.5
+Sunday,São Paulo,1.1
+Sunday,Sergipe,0.3
+Sunday,Tocantins,1.8
